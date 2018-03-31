@@ -23,7 +23,7 @@ To install or update the templates in Xcode:
 - On the command line, `cd` into the `Xcode-Template` directory and run `./install.sh`
 - Launch Xcode and create a new project. Confirm you see a Vokal category under iOS, as seen below.
 
-![](screenshots/template_selection.png)
+![](https://user-images.githubusercontent.com/8440220/38163895-0cd662d6-352e-11e8-8c36-bfe814e5a9b6.png)
 
 ## After Creating A Project
 
@@ -106,3 +106,5 @@ Adjust the run scripts in this target as necessary. For example, if your project
 * 1.x: works with Swift 2.2 and 2.3 in Xcode 7 or 8
 * 2.x: works with Swift 3 in Xcode 8
 * 3.x: works with Swift 4 in Xcode 9
+
+
