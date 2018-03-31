@@ -2,15 +2,15 @@
 
 # This is basically the install script from reidmain/Xcode-6-Project-Templates #
 
-folderName="Vokal"
+folderName="Steve"
 
 # The name of the base project template
-baseTemplate="Vokal-Cocoa Touch Application Base"
+baseTemplate="Custom-Cocoa Touch Application Base"
 
 if [ "$#" -eq 1 ]; then
     folderName="$1"
 elif [ "$#" -gt 1 ]; then
-    echo -e "This script takes one argument at most.\\ne.g. install.sh \"Vokal\""
+    echo -e "This script takes one argument at most.\\ne.g. install.sh \"Steve\""
     exit 1
 fi
 
